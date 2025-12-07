@@ -7,3 +7,17 @@
    "auto_welcomeMsg": true,
    "auto_leaveMsg": true
 }
+{
+  "owner": "62812xxxxxxx",
+  "botname": "PallxxBotz",
+  "sessionName": "session",
+  "prefix": ".",
+  
+  "whitelist": {
+    "enabled": true,
+    "allowedNumbers": [
+      "6281234567890",
+      "6289876543210"
+    ]
+  }
+}
